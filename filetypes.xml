@@ -1,0 +1,26 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern=".php_cs" type="PHP" />
+      <mapping pattern="855f92484c8c414d36c1b25cb24876e30229cbbf" type="PLAIN_TEXT" />
+      <mapping pattern="._css" type="PLAIN_TEXT" />
+      <mapping pattern="routes" type="PLAIN_TEXT" />
+      <mapping pattern=".env.dev" type="PLAIN_TEXT" />
+      <mapping pattern=".env.pro" type="PLAIN_TEXT" />
+      <mapping pattern=".env.testing" type="PLAIN_TEXT" />
+      <mapping pattern=".env.development" type="PLAIN_TEXT" />
+      <mapping pattern=".env.local" type="PLAIN_TEXT" />
+      <mapping pattern=".env.pv3" type="PLAIN_TEXT" />
+      <mapping pattern="user_addresses.blade.php" type="PLAIN_TEXT" />
+      <mapping pattern="._config" type="PLAIN_TEXT" />
+      <mapping pattern=".env.production" type="PLAIN_TEXT" />
+      <mapping pattern="env" type="PLAIN_TEXT" />
+      <mapping ext="wpy" type="PLAIN_TEXT" />
+      <mapping ext="go" type="PLAIN_TEXT" />
+      <mapping ext="sqlite" type="PLAIN_TEXT" />
+      <mapping ext="phmtl" type="PLAIN_TEXT" />
+      <mapping ext="py" type="PLAIN_TEXT" />
+      <mapping ext="encrypted" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>
